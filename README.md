@@ -12,6 +12,6 @@ Since this was a very small game, there weren't many scripts, however I added sc
 
 # Gameplay
 
-![Simple main menu for the game](menu.png)
+![Simple main menu for the game](menu.PNG)
 
-![Showing pause menu, and the main gameplay](game.png)
+![Showing pause menu, and the main gameplay](game.PNG)
