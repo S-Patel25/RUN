@@ -15,3 +15,5 @@ Since this was a very small game, there weren't many scripts, however I added sc
 ![Simple main menu for the game](menu.PNG)
 
 ![Showing pause menu, and the main gameplay](game.PNG)
+
+![Gameplay loop](gif.gif)
